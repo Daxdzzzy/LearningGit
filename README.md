@@ -1,5 +1,13 @@
 # **Learning Git**
     
+## Table of Contents
+  1. [Basic Operations](#1-basic-operations)  
+    1.1. [File Operations](#11-file-operations)  
+    1.2. [Text Operations](#12-text-operations)  
+    1.3. [Directory Operations](#13-directory-operations)  
+    1.4. [SSH, System Info & Network Operations](#14-ssh-system-info--network-operations)  
+    1.5. [Process Monitoring Operations](#15-process-monitoring-operations)
+
 ## Table of contents
   1. [Why I create this?](#1-why-i-create-this)
   2. [Control Version system](#2-control-version-system)
