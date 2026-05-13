@@ -1,9 +1,9 @@
 # **Learning Git**
 
 ## Table of contents
-    1. [Why I create this?](#1-why-i-create-this)
-    2. [Getting Started](#2-getting-started)
-        2.1. [Local Version Control System](#21-local-version-control-system)
+  1. [Why I create this?](#1-why-i-create-this)
+  2. [Getting Started](#2-getting-started)
+    2.1. [Local Version Control System](#21-local-version-control-system)
 
 ## 1. Why I create this?
 I'm learning git from scratch so made this repo to practice as I go.
