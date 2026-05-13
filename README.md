@@ -1,20 +1,9 @@
 # **Learning Git**
     
-## Table of Contents
-  1. [Basic Operations](#1-basic-operations)  
-    1.1. [File Operations](#11-file-operations)  
-    1.2. [Text Operations](#12-text-operations)  
-    1.3. [Directory Operations](#13-directory-operations)  
-    1.4. [SSH, System Info & Network Operations](#14-ssh-system-info--network-operations)  
-    1.5. [Process Monitoring Operations](#15-process-monitoring-operations)
-  2. [Control Version system](#2-control-version-system)  
-    2.1. [Local Version Control System](#21-local-version-control-system)  
-  2. [Basic Shell Programming](#2-basic-shell-programming)  
-    2.1. [Variables](#21-variables)  
 ## Table of contents
-  1. [Why I create this?](#1-why-i-create-this)  
-  2. [Control Version system](#2-control-version-system)  
-    2.1. [Local Version Control System](#21-local-version-control-system)
+  1. [Why I create this?](#1-why-i-create-this)
+  2. [Control Version system](#2-control-version-system)<br>
+    2.1. [Local Version Control System](#21-local-version-control-system)<br>
 
 ## 1. Why I create this?
 I'm learning git from scratch so made this repo to practice as I go.
