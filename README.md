@@ -14,4 +14,4 @@ First of all, let's talk about version control, is a system that records changes
 
 ## 2.1. Local Version Control System
 A simple local VCS without RCS is just copying files into another folder with a timestamp in the name. This is super simple but super risky because you can forget where you are or overwrite the wrong file. To solve this problem, programmers built local VCSs a simple database on your computer that tracks all your file changes. A popular one was RCS, which saves the differences between file versions so it can rebuild any version at any point in time.
-![local version control system](/images/LVS.png)
+![local version control system](/images/LVC.png)
