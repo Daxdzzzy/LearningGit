@@ -1,8 +1,27 @@
 # **Learning Git**
-
+## Table of Contents
+  1. [Basic Operations](#1-basic-operations)  
+    1.1. [File Operations](#11-file-operations)  
+    1.2. [Text Operations](#12-text-operations)  
+    1.3. [Directory Operations](#13-directory-operations)  
+    1.4. [SSH, System Info & Network Operations](#14-ssh-system-info--network-operations)  
+    1.5. [Process Monitoring Operations](#15-process-monitoring-operations)
+  2. [Basic Shell Programming](#2-basic-shell-programming)  
+    2.1. [Variables](#21-variables)  
+    2.2. [Array](#22-array)  
+    2.3. [String Substitution](#23-string-substitution)  
+    2.4. [Other String Tricks](#24-other-string-tricks)  
+    2.5. [Functions](#25-functions)  
+    2.6. [Conditionals](#26-conditionals)  
+    2.7. [Loops](#27-loops)  
+    2.8. [Regex](#28-regex)  
+    2.9. [Pipes](#29-pipes)  
+  3. [Tricks](#3-tricks)  
+  4. [Debugging](#4-debugging)  
+  5. [Multi-threading](#5-multi-threading)
 ## Table of contents
 1. [Why I create this?](#1-why-i-create-this)
-2. [Getting Started](#2-getting-started)
+2. [Control Version system](#2-getting-started)
    1. [Local Version Control System](#21-local-version-control-system)
 
 ## 1. Why I create this?
