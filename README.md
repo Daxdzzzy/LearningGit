@@ -9,9 +9,11 @@
     1.5. [Process Monitoring Operations](#15-process-monitoring-operations)
   2. [Control Version system](#2-control-version-system)
     2.1. [Local Version Control System](#21-local-version-control-system)
+  2. [Basic Shell Programming](#2-basic-shell-programming)  
+    2.1. [Variables](#21-variables)  
 ## Table of contents
-  1. [Why I create this?](#1-why-i-create-this)
-  2. [Control Version system](#2-control-version-system)
+  1. [Why I create this?](#1-why-i-create-this)  
+  2. [Control Version system](#2-control-version-system)  
     2.1. [Local Version Control System](#21-local-version-control-system)
 
 ## 1. Why I create this?
