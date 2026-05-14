@@ -17,11 +17,12 @@ First of all, let's talk about version control, is a system that records changes
 ### 2.1. Local Version Control System
 A simple local VCS without RCS is just copying files into another folder with a timestamp in the name. This is super simple but super risky because you can forget where you are or overwrite the wrong file. To solve this problem, programmers built local VCSs a simple database on your computer that tracks all your file changes. A popular one was RCS, which saves the differences between file versions so it can rebuild any version at any point in time.
 
-![local version control system](/images/LVC.png)
+![local version control system](/images/01_local_version_control.png)
 
 ### 2.2. Centrilized Version Control System
+This system improves upon and solves the problems that RCS has, like not just one client being allowed to work on the file. This system handles multiple clients on one single server. The client checks out files and saves versioned changes. All clients can see what others have changed or are working on because when some client saves and commits that file, the database stores that information and another client can see it. The management of this is good because the manager of the server has fine-grained control over all clients, like who can do what. When the server goes down, everything stops, or if something is corrupted on that server, all history is lost. When the client checks out from whatever server, they only get a single snapshot of that history.
 
-![centralized version control system](/images/02_)
+![centralized version control system](/images/02_centralized_version_control.png)
 
 ### Distributed Version Control System
 
