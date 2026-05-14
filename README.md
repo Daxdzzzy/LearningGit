@@ -25,5 +25,6 @@ This system improves upon and solves the problems that RCS has, like not just on
 ![centralized version control system](/images/02_centralized_version_control.png)
 
 ### Distributed Version Control System
+This one is the best of the three because it fixes all the problems, the server stores everything, projects, whatever and every client clones the whole server onto their own machine. So you’re not just getting the latest version, you’re cloning the full history, which gives you a complete backup. It also lets people work simultaneosly. Like this example to make it clearer, we’ve got two servers with different jobs. The first, Pumpkin, is our main project server where we keep all the important source files. The second, Squash, is just an auxiliary server for our experimental team. So I’ll be working locally on my laptop. After I write a new feature, I commit it to the repo on my computer. Because it’s a distributed version control system, my machine doesn’t just store a snapshot — it keeps the entire project history. Then, before rolling out that new experimental feature to everyone, I want to make sure it’s okay for the company, so I push all my code to Squash, the auxiliary server. After that, zxzyy can pull my changes and keep developing the feature.
 
 ![distributed version control system](/images/03_distributed_version_control.png)
